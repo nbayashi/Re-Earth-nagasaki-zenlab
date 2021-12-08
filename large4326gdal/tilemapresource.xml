@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>LargeResut2_2_4326modified.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:4326</SRS>
+      <BoundingBox minx="129.81700684248597" miny="32.70947218569858" maxx="129.89913368440352" maxy="32.80629642600809"/>
+      <Origin x="129.81700684248597" y="32.70947218569858"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="geodetic">
+        <TileSet href="0" units-per-pixel="0.70312500000000" order="0"/>
+        <TileSet href="1" units-per-pixel="0.35156250000000" order="1"/>
+        <TileSet href="2" units-per-pixel="0.17578125000000" order="2"/>
+        <TileSet href="3" units-per-pixel="0.08789062500000" order="3"/>
+        <TileSet href="4" units-per-pixel="0.04394531250000" order="4"/>
+        <TileSet href="5" units-per-pixel="0.02197265625000" order="5"/>
+        <TileSet href="6" units-per-pixel="0.01098632812500" order="6"/>
+        <TileSet href="7" units-per-pixel="0.00549316406250" order="7"/>
+        <TileSet href="8" units-per-pixel="0.00274658203125" order="8"/>
+        <TileSet href="9" units-per-pixel="0.00137329101562" order="9"/>
+        <TileSet href="10" units-per-pixel="0.00068664550781" order="10"/>
+        <TileSet href="11" units-per-pixel="0.00034332275391" order="11"/>
+        <TileSet href="12" units-per-pixel="0.00017166137695" order="12"/>
+        <TileSet href="13" units-per-pixel="0.00008583068848" order="13"/>
+        <TileSet href="14" units-per-pixel="0.00004291534424" order="14"/>
+        <TileSet href="15" units-per-pixel="0.00002145767212" order="15"/>
+        <TileSet href="16" units-per-pixel="0.00001072883606" order="16"/>
+        <TileSet href="17" units-per-pixel="0.00000536441803" order="17"/>
+        <TileSet href="18" units-per-pixel="0.00000268220901" order="18"/>
+      </TileSets>
+    </TileMap>
+    
